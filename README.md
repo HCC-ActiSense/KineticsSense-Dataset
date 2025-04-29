@@ -2,7 +2,7 @@
 Official dataset repository for the KineticsSense project: Wearable IMU, Pressure, and EMG data for lower-limb analysis.
 
 <p align="center">
-  <img src="./pic/dataset.png" alt="pressure data">
+  <img src="pic/dataset.png" alt="pressure data">
 </p>
 
 The visual modality is not currently included in the dataset and is still being sorted out.
@@ -117,6 +117,6 @@ The **IMU data** is divided into two parts, **imu_ori** and **imu_acc**, which r
 The pressure data includes 16 sampling points of plantar pressure data, 8 points on each foot. The sampling rate of the data is 20Hz. The order of the specific points is shown in the figure below. The specific order of data arrangement is 1-8 of the left foot first, then 1-8 of the right foot.
 
 <p align="center">
-  <img src="./pic/pressure.png" alt="pressure data" width="300">
+  <img src="pic/pressure.png" alt="pressure data" width="300">
 </p>
 
